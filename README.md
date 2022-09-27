@@ -9,4 +9,4 @@ Get started with the foundations. By the end of this section, you'll be able to 
 HTML provides the structure for all web pages you visit. Learn the elements that you'll use to piece together this structure and best semantic practices associated with building out a web page.
 
 1. [Fashion Blog](https://github.com/lucasbrtz/codecademy-fullstack-projects/tree/main/01-fashion-blog)
-2. [Wine Festival Schedule/(https://github.com/lucasbrtz/codecademy-fullstack-projects/tree/main/02-wine-festival-schedule)
+2. [Wine Festival Schedule](https://github.com/lucasbrtz/codecademy-fullstack-projects/tree/main/02-wine-festival-schedule)
